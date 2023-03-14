@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.3530f1ca.css",
+    "main.js": "/restaurant/static/js/main.4d25edf4.js",
+    "static/media/meal.mp4": "/restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/menu.png": "/restaurant/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/plate5.png": "/restaurant/static/media/plate5.7125682a5da8e7ca65cd.png",
+    "static/media/item1.png": "/restaurant/static/media/item1.5bcad6cb8b67f1d17d11.png",
+    "static/media/plate4.png": "/restaurant/static/media/plate4.db1569e8ef1f18b231ec.png",
+    "static/media/plate2.png": "/restaurant/static/media/plate2.faa8d6e00f2f8bb4cdb8.png",
+    "static/media/plate1.png": "/restaurant/static/media/plate1.796ee553556cf862bf57.png",
+    "static/media/plate6.png": "/restaurant/static/media/plate6.c893cb748f3fa16a1da6.png",
+    "static/media/plate7.png": "/restaurant/static/media/plate7.cba0bb70356b7636b908.png",
+    "static/media/plate8.png": "/restaurant/static/media/plate8.9f720ae5e7b4b4d06e4a.png",
+    "static/media/chef.png": "/restaurant/static/media/chef.add60ce4b4e0472c049d.png",
+    "static/media/plate3.png": "/restaurant/static/media/plate3.0592e05979352184554c.png",
+    "static/media/knife.png": "/restaurant/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/sign.png": "/restaurant/static/media/sign.54d4e8333ddeaa41ba0f.png",
+    "static/media/mainlogo.png": "/restaurant/static/media/mainlogo.683c0789d738460a62d3.png",
+    "static/media/award02.png": "/restaurant/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restaurant/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restaurant/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restaurant/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/restaurant/index.html",
+    "static/media/spoon.svg": "/restaurant/static/media/spoon.c649f658887e06b92ac568cae1b53ade.svg",
+    "main.3530f1ca.css.map": "/restaurant/static/css/main.3530f1ca.css.map",
+    "main.4d25edf4.js.map": "/restaurant/static/js/main.4d25edf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3530f1ca.css",
+    "static/js/main.4d25edf4.js"
+  ]
+}
